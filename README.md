@@ -39,5 +39,5 @@ E-commerce platform built using MERN stack (MongoDB, Express, React, Node.js)
 # License
 -This project is licensed under the ISC License.
 
-#Author
+# Author
 -Sridhar
